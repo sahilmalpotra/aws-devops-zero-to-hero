@@ -6,3 +6,4 @@ docker pull kubesahilmalpotra/simple-flask-app
 
 # Run the Docker image as a container
 docker run -d -p 5000:5000 kubesahilmalpotra/simple-flask-app
+  
